@@ -78,9 +78,6 @@ namespace ImageViewer
                 else
                 {
                     pB[i].Image = null;
-                    //加一行測試三
-                    //加註解不行嗎？
-
                 }
             }
         }
